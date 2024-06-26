@@ -1,4 +1,6 @@
 streamlit
 pandas
-ydata_profiling
-streamlit_pandas_profiling
+ydata-profiling==4.0.0
+streamlit-pandas-profiling
+visions==0.7.4
+
